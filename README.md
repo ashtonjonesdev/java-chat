@@ -1,2 +1,2 @@
 # java-chat
-Allows two people to chat when connected to the same IP address
+Allows one-way chat when two people connected to the same IP address
